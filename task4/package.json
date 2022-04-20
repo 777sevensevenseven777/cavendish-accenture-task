@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "tsc src/main.ts --outfile build/main.js --lib ES2015,DOM",
+    "start": "node build/main.js"
+  }
+}

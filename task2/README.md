@@ -1,0 +1,1 @@
+To run the script type and run `npm start` in the console (node required)
